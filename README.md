@@ -48,6 +48,9 @@ As mentioned in the description above:
 * The broken nav link was fixed and now includes an anchor tag. 
 * The title of the HTML page was updated to clearly and concisely denote the subject of the page. 
 
+![Updated CSS Screenshot](https://github.com/FourStringFunk/DU_Horiseon_Accessibility_Update/blob/main/assets/images/Updated_CSS.png?raw=true)
+![Updated HTML Screenshot](https://github.com/FourStringFunk/DU_Horiseon_Accessibility_Update/blob/main/assets/images/Updated_HTML.png?raw=true)
+
 ### CSS
 * The CSS document reordered in consideration with order of operations
 * The CSS code was updated to compensate for the impact the semantic elements had on individual selectors
