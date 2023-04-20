@@ -4,22 +4,22 @@
 The purpose of this project was to refactor the homepage for the Horiseon website to incorporate semantic HTML and CSS styles that took into consideration order of operations. The updates were done through Git and published to Git Pages. Specifically, the HTML document was reordered to include header, main, section, article, aside and footer elements, alt-tags for images and icon, and the CSS was adjust to align with the order of the html file.
 
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+* AS A marketing agency
+  * I WANT a codebase that follows accessibility standards
+  * SO THAT our own site is optimized for search engines
 
 ## Acceptance Criteria
-GIVEN a webpage meets accessibility standards
-WHEN I view the source code
-THEN I find semantic HTML elements
-WHEN I view the structure of the HTML elements
-THEN I find that the elements follow a logical structure independent of styling and positioning
-WHEN I view the image elements
-THEN I find accessible alt attributes
-WHEN I view the heading attributes
-THEN they fall in sequential order
-WHEN I view the title element
-THEN I find a concise, descriptive title
+* GIVEN a webpage meets accessibility standards
+  * WHEN I view the source code
+* THEN I find semantic HTML elements
+  * WHEN I view the structure of the HTML elements
+* THEN I find that the elements follow a logical structure independent of styling and positioning
+  * WHEN I view the image elements
+* THEN I find accessible alt attributes
+  * WHEN I view the heading attributes
+* THEN they fall in sequential order
+  * WHEN I view the title element
+* THEN I find a concise, descriptive title
 
 ## Installation
 N/A
