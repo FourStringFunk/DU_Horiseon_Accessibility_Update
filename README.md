@@ -26,8 +26,8 @@ N/A
 
 ## Usage
 Active files can be found in the following locations:
-<a href="https://fourstringfunk.github.io/DU_Horiseon_Accessibility_Update/" target="_blank">Live site: Github Pages</a> 
-<a href="https://github.com/FourStringFunk/DU_Horiseon_Accessibility_Update" targe="_blank">Github Repository</a>
+* <a href="https://fourstringfunk.github.io/DU_Horiseon_Accessibility_Update/" target="_blank">Live site: Github Pages</a> 
+* <a href="https://github.com/FourStringFunk/DU_Horiseon_Accessibility_Update" targe="_blank">Github Repository</a>
 
 ## Credits
 N/A
